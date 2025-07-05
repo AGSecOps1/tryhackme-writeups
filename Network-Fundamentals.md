@@ -1,7 +1,7 @@
 # TryHackMe: Network Fundamentals
 
 🗓️ Date Completed: July 5, 2025  
-🔗 Room Link: https://tryhackme.com/room/networkfundamentals
+🔗 Room Link: [https://tryhackme.com/room/networkfundamentals](https://tryhackme.com/module/network-fundamentals)
 
 ---
 
